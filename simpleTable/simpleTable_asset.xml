@@ -15,7 +15,7 @@
     <default>
 
          <default class="viz_Wood_simpleTable" >
-            <geom group="1" contype="0" conaffinity="0" type="mesh" material="M_Wood_simpleTable"/>
+            <geom group="1" contype="0" conaffinity="0" type="mesh" rgba="0.5 0.5 0.5 1"/>
         </default>
 
         <default class="body_simpleTable" >

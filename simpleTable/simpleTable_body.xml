@@ -9,12 +9,20 @@
 
     <!-- simpleTable_Main -©vk©-->
     <body name="simpleTable_Main" pos="0 0 0"  childclass="body_simpleTable" >
-        <geom class="viz_Wood_simpleTable" type="box" size=".6 .375 .025" pos="0 0 0.735"/>
+<!--         <geom class="viz_Wood_simpleTable" type="box" size=".6 .375 .025" pos="0 0 0.735"/>
         <geom class="viz_Wood_simpleTable" type="box" size="0.59 0.26 .05" pos="0 0 0.66"/>
         <geom class="viz_Wood_simpleTable" type="box" size="0.025 0.025 0.305" pos="-0.565 0.235 0.305"/>
         <geom class="viz_Wood_simpleTable" type="box" size="0.025 0.025 0.305" pos="-0.565 -0.235 0.305"/>
         <geom class="viz_Wood_simpleTable" type="box" size="0.025 0.025 0.305" pos="0.565 0.235 0.305"/>
-        <geom class="viz_Wood_simpleTable" type="box" size="0.025 0.025 0.305" pos="0.565 -0.235 0.305"/>
+        <geom class="viz_Wood_simpleTable" type="box" size="0.025 0.025 0.305" pos="0.565 -0.235 0.305"/> -->
+
+        <geom class="viz_Wood_simpleTable" type="box" size=".6 .375 .025" pos="0 0 0.735" rgba="0.6 0.6 0.6 1"/>
+        <geom class="viz_Wood_simpleTable" type="box" size="0.59 0.26 .05" pos="0 0 0.66" rgba="0.6 0.6 0.6 1"/>
+        <geom class="viz_Wood_simpleTable" type="box" size="0.025 0.025 0.305" pos="-0.565 0.235 0.305" rgba="0.6 0.6 0.6 1"/>
+        <geom class="viz_Wood_simpleTable" type="box" size="0.025 0.025 0.305" pos="-0.565 -0.235 0.305" rgba="0.6 0.6 0.6 1"/>
+        <geom class="viz_Wood_simpleTable" type="box" size="0.025 0.025 0.305" pos="0.565 0.235 0.305" rgba="0.6 0.6 0.6 1"/>
+        <geom class="viz_Wood_simpleTable" type="box" size="0.025 0.025 0.305" pos="0.565 -0.235 0.305" rgba="0.6 0.6 0.6 1"/>
+
 
         <geom type="box" size=".6 .375 .025" pos="0 0 0.735" mass="40" />
         <geom type="box" size="0.59 0.26 .05" pos="0 0 0.66"/>
@@ -22,6 +30,5 @@
         <geom type="box" size="0.025 0.025 0.305" pos="-0.565 -0.235 0.305"/>
         <geom type="box" size="0.025 0.025 0.305" pos="0.565 0.235 0.305"/>
         <geom type="box" size="0.025 0.025 0.305" pos="0.565 -0.235 0.305"/>
-
     </body>
 </mujocoinclude>
